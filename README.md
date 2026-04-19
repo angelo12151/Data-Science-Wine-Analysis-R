@@ -1,6 +1,6 @@
 # Analisi Esplorativa e Multivariata dei Vini (R)
 
-Analisi statistica avanzata finalizzata alla comprensione delle relazioni chimiche, alla riduzione della dimensionalità e all'identificazione di gruppi omogenei (Clustering)[cite: 101].
+Analisi statistica avanzata finalizzata alla comprensione delle relazioni chimiche, alla riduzione della dimensionalità e all'identificazione di gruppi omogenei (Clustering).
 
 ## 📊 Dataset Overview
 - **Dimensione**: 178 campioni e 13 caratteristiche chimico-fisiche (es. Alcohol, Flavonoids, Proline).
