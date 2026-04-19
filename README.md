@@ -29,4 +29,7 @@ Analisi statistica avanzata finalizzata alla comprensione delle relazioni chimic
 - **Librerie**: `ggplot2` (visualizzazione), `factoextra` (PCA), `GGally` (pair plot), `knitr` (reportistica).
 
 ---
-*Relazione tecnica completa disponibile nel repository.*
+
+## 📂 Documentazione
+È possibile consultare la relazione tecnica completa e i dettagli metodologici tramite il link seguente:
+* 📄 Leggi la Relazione Tecnica (PDF)(https://docs.google.com/viewer?url=https://raw.githubusercontent.com/angelo12151/Data-Science-Wine-Analysis-R/main/Progetto_Data_Science.pdf)
